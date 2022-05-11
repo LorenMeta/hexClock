@@ -1,0 +1,8 @@
+#clock {
+    font-size: 4.5em;
+    font-family: monospace;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
